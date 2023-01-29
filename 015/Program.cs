@@ -12,6 +12,6 @@ System.Console.WriteLine("No");
 }
 else
 {
-if (b>0)
+if (a>0)
 System.Console.WriteLine(a/100%10);
 }
